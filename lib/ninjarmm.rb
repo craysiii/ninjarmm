@@ -1,5 +1,3 @@
 require 'ninjarmm/version'
+require 'ninjarmm/client'
 
-module Ninjarmm
-  # Your code goes here...
-end
